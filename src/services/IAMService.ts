@@ -60,7 +60,7 @@ export interface VerifySessionResponse {
 }
 
 export class IAMService {
-  private readonly baseUrl: string = "https://backend.i-am.technology";
+  private readonly baseUrl: string = "https://api.i-am.technology";
 
   /**
    * Signs data with a private key
