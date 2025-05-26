@@ -1,7 +1,7 @@
 I-AM with Self registration
 
 Prerequisites:
-- An active I-AM account. If you don't have one already register at https://i-am-technology. 
+- An active I-AM account. If you don't have one already register at https://i-am.technology. 
 - Make sure you scanned the QR code, with the I-AM app, in the onboarding email you got during the registration process.
 
 You can run this application in a free Stackbitz account: https://stackblitz.com/
