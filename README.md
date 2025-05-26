@@ -18,4 +18,4 @@ In your I-AM account:
 
 In the repository - AuthContext.tsx update the APP_ID, HUB_ID and PRIVATE_KEY with the values you just copied.
 
-Now you are set. Ready to run the application.  
+Now you are set. Ready to run the application: https://stackblitz.com/~/github.com/your-github-account/iam-w-self-registration
